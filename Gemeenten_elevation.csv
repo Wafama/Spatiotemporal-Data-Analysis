@@ -1,0 +1,356 @@
+GM_CODE,GM_NAAM,Elevation (m)
+GM0003,Appingedam,0.48
+GM0010,Delfzijl,2.03
+GM0014,Groningen,14.02
+GM0024,Loppersum,2
+GM0034,Almere,1.92
+GM0037,Stadskanaal,5.03
+GM0047,Veendam,2.38
+GM0050,Zeewolde,-1.05
+GM0059,Achtkarspelen,1
+GM0060,Ameland,-1
+GM0072,Harlingen,7.09
+GM0074,Heerenveen,0
+GM0080,Leeuwarden,4.85
+GM0085,Ooststellingwerf,4
+GM0086,Opsterland,6.14
+GM0088,Schiermonnikoog,-0.42
+GM0090,Smallingerland,0
+GM0093,Terschelling,3
+GM0096,Vlieland,0.2
+GM0098,Weststellingwerf,0
+GM0106,Assen,14.29
+GM0109,Coevorden,13.87
+GM0114,Emmen,22.66
+GM0118,Hoogeveen,11.89
+GM0119,Meppel,4.4
+GM0141,Almelo,12.99
+GM0147,Borne,17
+GM0148,Dalfsen,4.57
+GM0150,Deventer,9.81
+GM0153,Enschede,43.38
+GM0158,Haaksbergen,10.05
+GM0160,Hardenberg,12
+GM0163,Hellendoorn,10.96
+GM0164,Hengelo,18.43
+GM0166,Kampen,5.61
+GM0168,Losser,37.64
+GM0171,Noordoostpolder,-5
+GM0173,Oldenzaal,47.29
+GM0175,Ommen,11.37
+GM0177,Raalte,6
+GM0180,Staphorst,0.67
+GM0183,Tubbergen,24
+GM0184,Urk,2.82
+GM0189,Wierden,12
+GM0193,Zwolle,4.81
+GM0197,Aalten,31.13
+GM0200,Apeldoorn,17.66
+GM0202,Arnhem,32.67
+GM0203,Barneveld,11.18
+GM0209,Beuningen,9.97
+GM0213,Brummen,13.7
+GM0214,Buren,5
+GM0216,Culemborg,14.38
+GM0221,Doesburg,13.59
+GM0222,Doetinchem,16
+GM0225,Druten,7.18
+GM0226,Duiven,10.01
+GM0228,Ede,22.99
+GM0230,Elburg,4.09
+GM0232,Epe,12.69
+GM0233,Ermelo,15.73
+GM0243,Harderwijk,5
+GM0244,Hattem,6.17
+GM0246,Heerde,6.55
+GM0252,Heumen,12
+GM0262,Lochem,16.34
+GM0263,Maasdriel,5
+GM0267,Nijkerk,5.01
+GM0268,Nijmegen,14
+GM0269,Oldebroek,2.92
+GM0273,Putten,18.46
+GM0274,Renkum,23.98
+GM0275,Rheden,17.84
+GM0277,Rozendaal,49.77
+GM0279,Scherpenzeel,10
+GM0281,Tiel,7
+GM0285,Voorst,6
+GM0289,Wageningen,12.32
+GM0293,Westervoort,12
+GM0294,Winterswijk,36.94
+GM0296,Wijchen,9.1
+GM0297,Zaltbommel,9.01
+GM0299,Zevenaar,13.79
+GM0301,Zutphen,13.7
+GM0302,Nunspeet,7.29
+GM0303,Dronten,-1.01
+GM0307,Amersfoort,6.59
+GM0308,Baarn,7.14
+GM0310,De Bilt,-1
+GM0312,Bunnik,1
+GM0313,Bunschoten,1
+GM0317,Eemnes,2
+GM0321,Houten,4.84
+GM0327,Leusden,4.56
+GM0331,Lopik,0.12
+GM0335,Montfoort,1
+GM0339,Renswoude,9
+GM0340,Rhenen,48.88
+GM0342,Soest,16.51
+GM0344,Utrecht,13.24
+GM0345,Veenendaal,10.75
+GM0351,Woudenberg,4
+GM0352,Wijk bij Duurstede,7
+GM0353,IJsselstein,2.36
+GM0355,Zeist,5
+GM0356,Nieuwegein,1.36
+GM0358,Aalsmeer,-3.64
+GM0361,Alkmaar,2.07
+GM0362,Amstelveen,-3.9
+GM0363,Amsterdam,9.47
+GM0370,Beemster,-1
+GM0373,Bergen (NH.),1.57
+GM0375,Beverwijk,3.23
+GM0376,Blaricum,7.66
+GM0377,Bloemendaal,7.32
+GM0383,Castricum,1.51
+GM0384,Diemen,2.33
+GM0385,Edam-Volendam,1
+GM0388,Enkhuizen,1.28
+GM0392,Haarlem,-1
+GM0394,Haarlemmermeer,-3.94
+GM0396,Heemskerk,0.64
+GM0397,Heemstede,1.67
+GM0398,Heerhugowaard,-1.92
+GM0399,Heiloo,3.18
+GM0400,Den Helder,2.37
+GM0402,Hilversum,23.35
+GM0405,Hoorn,1.15
+GM0406,Huizen,4.93
+GM0415,Landsmeer,-1.71
+GM0416,Langedijk,0
+GM0417,Laren,5.2
+GM0420,Medemblik,-1.25
+GM0431,Oostzaan,0.51
+GM0432,Opmeer,0.45
+GM0437,Ouder-Amstel,-4
+GM0439,Purmerend,1.15
+GM0441,Schagen,1.4
+GM0448,Texel,5
+GM0450,Uitgeest,1.01
+GM0451,Uithoorn,-3.53
+GM0453,Velsen,11.44
+GM0457,Weesp,3.02
+GM0473,Zandvoort,5.71
+GM0479,Zaanstad,-3.49
+GM0482,Alblasserdam,-0.35
+GM0484,Alphen aan den Rijn,1
+GM0489,Barendrecht,1.5
+GM0498,Drechterland,-1
+GM0501,Brielle,2.65
+GM0502,Capelle aan den IJssel,-1.41
+GM0503,Delft,4.26
+GM0505,Dordrecht,4.17
+GM0512,Gorinchem,2.73
+GM0513,Gouda,13.49
+GM0518,'s-Gravenhage,2.9
+GM0523,Hardinxveld-Giessendam,-4
+GM0530,Hellevoetsluis,0.02
+GM0531,Hendrik-Ido-Ambacht,-1.22
+GM0532,Stede Broec,-1
+GM0534,Hillegom,1.22
+GM0537,Katwijk,4
+GM0542,Krimpen aan den IJssel,0
+GM0546,Leiden,3.75
+GM0547,Leiderdorp,1
+GM0553,Lisse,0.48
+GM0556,Maassluis,0.99
+GM0569,Nieuwkoop,-2.5
+GM0575,Noordwijk,1.21
+GM0579,Oegstgeest,3.03
+GM0589,Oudewater,1
+GM0590,Papendrecht,0
+GM0597,Ridderkerk,1.26
+GM0599,Rotterdam,7.24
+GM0603,Rijswijk,2.3
+GM0606,Schiedam,0.96
+GM0610,Sliedrecht,0
+GM0613,Albrandswaard,1
+GM0614,Westvoorne,-1
+GM0622,Vlaardingen,0.51
+GM0626,Voorschoten,1
+GM0627,Waddinxveen,-0.4
+GM0629,Wassenaar,2.55
+GM0632,Woerden,0
+GM0637,Zoetermeer,4.34
+GM0638,Zoeterwoude,-3
+GM0642,Zwijndrecht,0.65
+GM0654,Borsele,2.27
+GM0664,Goes,3.83
+GM0668,West Maas en Waal,3
+GM0677,Hulst,5.22
+GM0678,Kapelle,1
+GM0687,Middelburg,5.18
+GM0703,Reimerswaal,1.34
+GM0715,Terneuzen,2.6
+GM0716,Tholen,-1
+GM0717,Veere,3.07
+GM0718,Vlissingen,1.08
+GM0736,De Ronde Venen,-5
+GM0737,Tytsjerksteradiel,-2
+GM0743,Asten,27.94
+GM0744,Baarle-Nassau,27.06
+GM0748,Bergen op Zoom,9.45
+GM0753,Best,15.93
+GM0755,Boekel,18
+GM0756,Boxmeer,15.13
+GM0757,Boxtel,11.42
+GM0758,Breda,3
+GM0762,Deurne,27.54
+GM0765,Pekela,0
+GM0766,Dongen,5.76
+GM0770,Eersel,30
+GM0772,Eindhoven,21.56
+GM0777,Etten-Leur,4
+GM0779,Geertruidenberg,0.74
+GM0784,Gilze en Rijen,10.28
+GM0785,Goirle,15.58
+GM0786,Grave,35
+GM0788,Haaren,10.88
+GM0794,Helmond,20.44
+GM0796,'s-Hertogenbosch,8.6
+GM0797,Heusden,6
+GM0798,Hilvarenbeek,17.54
+GM0809,Loon op Zand,13.42
+GM0815,Mill en Sint Hubert,19
+GM0820,Nuenen,18
+GM0823,Oirschot,18.21
+GM0824,Oisterwijk,10.21
+GM0826,Oosterhout,10.07
+GM0828,Oss,7.68
+GM0840,Rucphen,11.8
+GM0845,Sint-Michielsgestel,7.84
+GM0847,Someren,27
+GM0848,Son en Breugel,14.9
+GM0851,Steenbergen,0.76
+GM0852,Waterland,-1
+GM0855,Tilburg,14.92
+GM0856,Uden,18.15
+GM0858,Valkenswaard,27.14
+GM0861,Veldhoven,24.68
+GM0865,Vught,7.51
+GM0866,Waalre,22.04
+GM0867,Waalwijk,3.07
+GM0873,Woensdrecht,6.71
+GM0879,Zundert,13.645
+GM0880,Wormerland,1
+GM0882,Landgraaf,146
+GM0888,Beek,80.48
+GM0889,Beesel,26.97
+GM0893,Bergen (L.),1.57
+GM0899,Brunssum,76.41
+GM0907,Gennep,14.54
+GM0917,Heerlen,115.72
+GM0928,Kerkrade,160
+GM0935,Maastricht,54.31
+GM0938,Meerssen,58.57
+GM0944,Mook en Middelaar,13
+GM0946,Nederweert,33.53
+GM0957,Roermond,29.28
+GM0965,Simpelveld,152
+GM0971,Stein,58.83
+GM0981,Vaals,193.46
+GM0983,Venlo,22.89
+GM0984,Venray,27.37
+GM0986,Voerendaal,92.76
+GM0988,Weert,33.06
+GM0994,Valkenburg aan de Geul,138.54
+GM0995,Lelystad,-2.89
+GM1507,Horst aan de Maas,27
+GM1509,Oude IJsselstreek,16
+GM1525,Teylingen,0
+GM1581,Utrechtse Heuvelrug,7
+GM1586,Oost Gelre,20
+GM1598,Koggenland,-2
+GM1621,Lansingerland,-7
+GM1640,Leudal,29
+GM1641,Maasgouw,21
+GM1652,Gemert-Bakel,22
+GM1655,Halderberge,-2
+GM1658,Heeze-Leende,23.41
+GM1659,Laarbeek,15
+GM1667,Reusel-De Mierden,27
+GM1669,Roerdalen,29
+GM1674,Roosendaal,6.42
+GM1676,Schouwen-Duiveland,0.71
+GM1680,Aa en Hunze,18.25
+GM1681,Borger-Odoorn,7
+GM1684,Cuijk,-2
+GM1685,Landerd,16
+GM1690,De Wolden,2
+GM1695,Noord-Beveland,1.63
+GM1696,Wijdemeren,-3
+GM1699,Noordenveld,8
+GM1700,Twenterand,10
+GM1701,Westerveld,4
+GM1702,Sint Anthonis,19.46
+GM1705,Lingewaard,8
+GM1706,Cranendonck,29
+GM1708,Steenwijkerland,-3
+GM1709,Moerdijk,1.05
+GM1711,Echt-Susteren,31
+GM1714,Sluis,2.46
+GM1719,Drimmelen,1
+GM1721,Bernheze,7
+GM1723,Alphen-Chaam,11
+GM1724,Bergeijk,32.75
+GM1728,Bladel,32.67
+GM1729,Gulpen-Wittem,26.43
+GM1730,Tynaarlo,4
+GM1731,Midden-Drenthe,15
+GM1734,Overbetuwe,7
+GM1735,Hof van Twente,12
+GM1740,Neder-Betuwe,7
+GM1742,Rijssen-Holten,25
+GM1771,Geldrop-Mierlo,24
+GM1773,Olst-Wijhe,2
+GM1774,Dinkelland,41.02
+GM1783,Westland,0
+GM1842,Midden-Delfland,-2
+GM1859,Berkelland,15.97
+GM1876,Bronckhorst,12
+GM1883,Sittard-Geleen,52.25
+GM1884,Kaag en Braassem,0
+GM1891,Dantumadiel,4
+GM1892,Zuidplas,-4
+GM1894,Peel en Maas,29
+GM1895,Oldambt,-2
+GM1896,Zwartewaterland,-2
+GM1900,Sudwest-Fryslan,0
+GM1901,Bodegraven-Reeuwijk,0
+GM1903,Eijsden-Margraten,174
+GM1904,Stichtse Vecht,0
+GM1911,Hollands Kroon,-3
+GM1916,Leidschendam-Voorburg,2
+GM1924,Goeree-Overflakkee,-1
+GM1926,Pijnacker-Nootdorp,-1.02
+GM1930,Nissewaard,4
+GM1931,Krimpenerwaard,-3
+GM1940,De Fryske Marren,4.67
+GM1942,Gooise Meren,-1
+GM1945,Berg en Dal,1
+GM1948,Meierijstad,10
+GM1949,Waadhoeke,-1
+GM1950,Westerwolde,1
+GM1952,Midden-Groningen,-2
+GM1954,Beekdaelen,89
+GM1955,Montferland,55
+GM1959,Altena,5
+GM1960,West Betuwe,0
+GM1961,Vijfheerenlanden,3.83
+GM1963,Hoeksche Waard,-3
+GM1966,Het Hogeland,0
+GM1969,Westerkwartier,2
+GM1970,Noardeast-Fryslan,-2
+GM1978,Molenlanden,0
